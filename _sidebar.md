@@ -1,5 +1,8 @@
 # 电子合同服务
 
+* [首页](zh-cn/)
+* [指南](zh-cn/guide)
+
 * [产品简介](README.md)
     * [什么是电子合同服务](introduction/what-is-econtract.md)
     * [产品优势](introduction/benefits.md)
